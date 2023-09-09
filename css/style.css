@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400&display=swap');
+
+.card{
+    width: max-content;
+    height: 100%;
+    margin: auto;
+    border: 1px solid #c92b3b1f;
+    border-radius: 10px;
+    display: flex;
+    background: #c92b3b1f;
+    overflow: hidden;
+    margin-top: 100px;
+    box-shadow: 1px 6px 20px 0px rgb(0 0 0 / 23%);
+    font-family: 'Roboto Slab', serif;
+}
+
+.main-content{
+    padding: 10px 20px;
+    background: white;
+}
+
+#my-name{
+    font-size: 50px; 
+    color: hsl(0, 0%, 0%); 
+    font-weight: 400;
+}
+
+.date-time{
+    font-size: 20px;
+    padding: 1px;
+    margin-top: 5px;
+    margin-bottom: 100px;
+    font-weight: 300;
+}
+
+#time{
+    color: #c91515;
+    line-height: 41px;
+}
+
+#myTrack{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 300;
+}
